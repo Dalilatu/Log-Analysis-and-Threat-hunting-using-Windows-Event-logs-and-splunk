@@ -83,7 +83,8 @@ This repository explains how to analyse logs using Windows Event logs and Splunk
   <strong>Step 8:</strong> Give a name to your index<br/>
 <img alt="image" src="https://github.com/user-attachments/assets/67933068-9bcd-47bc-bd65-95878e868a01" height="80%" width="80%"/>
   <br/>
-  NB: The name given above wasn't accepted during the final step, so it's better to avoid using "_". Once this is done, Click on Review > Submit > Start Searching.
+  NB: The name given above wasn't accepted during the final step, so it's better to avoid using "_". <br/>
+  Once this is done, Click on Review > Submit > Start Searching.
 <br />
 <br />
 
