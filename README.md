@@ -1,6 +1,6 @@
 # Log Analysis and Threat Hunting with Windows Event logs and Splunk
-## Description
-This repository explains how to analyse logs using Windows Event logs and Splunk.
+## Inserting Logs on Splunk.
+This repository explains how to insert windows event logs on Splunk
 <br />
 
 
