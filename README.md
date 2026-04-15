@@ -102,7 +102,6 @@ This repository explains how to insert windows event logs on Splunk
 <br />
 <br />
 
-### Threat Hunting
 
 
 
